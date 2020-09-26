@@ -6,7 +6,7 @@ much the heli resist weather cocking. SE is the AutoLevel. SF is the
 main Arming.
 
 The location of the text somewhat mimics the location of the switch on the TX16S.
-]]
+--]]
 
 -- Invoked once by OpenTX when the widget is first created.
 --
